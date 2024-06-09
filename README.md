@@ -103,6 +103,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     </tr>
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://alaminsec.me"><img src="https://avatars.githubusercontent.com/u/86530759?v=4?s=100" width="100px;" alt="Md. Alamin A."/><br /><sub><b>Md. Alamin A.</b></sub></a><br /><a href="#content-Alamin0x01" title="Content">🖋</a></td>
+      <td align="center" valign="top" width="14.28%"><a ref="https://github.com/SUDEEP-M-SHETTY"><img src="https://avatars.githubusercontent.com/u/86517389?v=4?s=100" width="100px;" alt="SUDEEP M SHETTY"/><br /><sub><b>SUDEEP M SHETTY</b></sub></a><br /><a href="#content-SUDEEP-M-SHETTY" title="Content">🖋</a></td>
     </tr>
   </tbody>
 </table>
